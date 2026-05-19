@@ -1302,7 +1302,7 @@ if selected_chart== "Top 3 Crash Causes":
 """)
     
 
-#Calculate the year-over-year growth rate of crashes. (Use LAG() window function)
+#Q14>Calculate the year-over-year growth rate of crashes. (Use LAG() window function)
 
 
 if selected_chart == "Year-over-Year Growth Rate":
@@ -1353,7 +1353,7 @@ if selected_chart == "Year-over-Year Growth Rate":
 """)
 
 
-#Q12>Identify hotspot zones:
+#Q15>Identify hotspot zones:
 #Group nearby locations (round latitude & longitude to 2 decimal places)
 #Find top 10 zones with highest crashes
 
