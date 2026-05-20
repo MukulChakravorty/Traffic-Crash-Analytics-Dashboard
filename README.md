@@ -70,7 +70,7 @@ Traffic-Crash-Analytics-Dashboard/
 ├── traffic_crash.db
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+└── screenshots
 ```
 
 ---
