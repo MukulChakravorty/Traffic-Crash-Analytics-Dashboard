@@ -83,6 +83,14 @@ Clone the repository:
 git clone https://github.com/MukulChakravorty/Traffic-Crash-Analytics-Dashboard.git
 ```
 
+---
+
+# Dataset Availability
+
+The original dataset used for this project has not been included in the repository because the file size exceeds GitHub's upload limit.
+
+---
+
 Navigate to the project directory:
 
 ```bash
